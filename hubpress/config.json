@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "agentcobra",
-    "repositoryName": "agentcobra.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"agentcobra","repositoryName":"agentcobra.github.io","branch":"master"},"site":{"title":"agentcobra","description":"agentcobraGithubPortfolio","url":"http://agentcobra.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://agentcobra.github.io/themes/Casper"}}
